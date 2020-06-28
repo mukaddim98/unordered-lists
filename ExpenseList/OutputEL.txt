@@ -1,0 +1,9 @@
+1. ExpenseListDemo Outputs
+
+Enter the filename to read from: C:\Users\Abdullah\OneDrive - Dalhousie University\FALL-2019\CSCI-2110\src\Expenses.txt
+September Expenses
+The max expense was: $360.01
+The min expense was: $4.51
+The avg expense was: $76.635
+The amount spent on groceries was: $95.13
+The total expenses were: $919.62

@@ -1,0 +1,70 @@
+2. StudentListDemo Output
+
+Enter the filename to read from: C:\Users\Abdullah\OneDrive - Dalhousie University\FALL-2019\CSCI-2110\src\StudentRecords.txt
+All Student from the file:
+200132 Jane Reid jreid@email.com Music Arts
+200131 Mike Williams mwilliams@email.com Linguistics Humanities
+200130 Steve Edwards sedwards@email.com Biology Science
+200129 Craig Cambell ccambell@email.com Music Arts
+200128 Allison Page apage@email.com History Humanities
+200127 John Smith jsmith@email.com Sculpture Arts
+200126 Karen Weaver jkweaver@email.com Music Arts
+200125 Matt Knight mknight@email.com Finance Business
+200124 Jen Foster jfoster@email.com Physics Science
+200123 Mark Smith msmith@email.com Biology Science
+200122 Tom Erlich terlich@email.com Sculpture Arts
+200121 Julie McLain jmclain@email.com Finance Business
+200120 Kate West kwest@email.com Music Arts
+
+After a new Student is added:
+804319 Abdullah Al Mukaddim ab845312@dal.ca CS CS
+200132 Jane Reid jreid@email.com Music Arts
+200131 Mike Williams mwilliams@email.com Linguistics Humanities
+200130 Steve Edwards sedwards@email.com Biology Science
+200129 Craig Cambell ccambell@email.com Music Arts
+200128 Allison Page apage@email.com History Humanities
+200127 John Smith jsmith@email.com Sculpture Arts
+200126 Karen Weaver jkweaver@email.com Music Arts
+200125 Matt Knight mknight@email.com Finance Business
+200124 Jen Foster jfoster@email.com Physics Science
+200123 Mark Smith msmith@email.com Biology Science
+200122 Tom Erlich terlich@email.com Sculpture Arts
+200121 Julie McLain jmclain@email.com Finance Business
+200120 Kate West kwest@email.com Music Arts
+
+After a Student is deleted with ID 200120:
+804319 Abdullah Al Mukaddim ab845312@dal.ca CS CS
+200132 Jane Reid jreid@email.com Music Arts
+200131 Mike Williams mwilliams@email.com Linguistics Humanities
+200130 Steve Edwards sedwards@email.com Biology Science
+200129 Craig Cambell ccambell@email.com Music Arts
+200128 Allison Page apage@email.com History Humanities
+200127 John Smith jsmith@email.com Sculpture Arts
+200126 Karen Weaver jkweaver@email.com Music Arts
+200125 Matt Knight mknight@email.com Finance Business
+200124 Jen Foster jfoster@email.com Physics Science
+200123 Mark Smith msmith@email.com Biology Science
+200122 Tom Erlich terlich@email.com Sculpture Arts
+200121 Julie McLain jmclain@email.com Finance Business
+200120 Kate West kwest@email.com Music Arts
+
+Displaying Students with Major in Music:
+200132 Jane Reid jreid@email.com Music Arts
+200129 Craig Cambell ccambell@email.com Music Arts
+200126 Karen Weaver jkweaver@email.com Music Arts
+200120 Kate West kwest@email.com Music Arts
+
+Displaying Students of Faculty of Arts:
+200132 Jane Reid jreid@email.com Music Arts
+200129 Craig Cambell ccambell@email.com Music Arts
+200127 John Smith jsmith@email.com Sculpture Arts
+200126 Karen Weaver jkweaver@email.com Music Arts
+200122 Tom Erlich terlich@email.com Sculpture Arts
+200120 Kate West kwest@email.com Music Arts
+
+Displaying Students with Last Name being Smith:
+200127 John Smith jsmith@email.com Sculpture Arts
+200123 Mark Smith msmith@email.com Biology Science
+
+Searching a student with ID 804319:
+804319 Abdullah Al Mukaddim ab845312@dal.ca CS CS

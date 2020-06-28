@@ -1,0 +1,19 @@
+3. CountryCapitalDemo Output
+
+Enter the filename to read from: C:\Users\Abdullah\OneDrive - Dalhousie University\FALL-2019\CSCI-2110\src\CountryCapitals.txt
+Welcome to the Country-Capital Quiz
+Play? Yes
+What is the capital of Ecuador?
+Quito
+Correct. Play? Yes
+What is the capital of South Korea?
+Seoul
+Correct. Play? Yes
+What is the capital of Bulgaria?
+Dhaka
+Incorrect. The correct answer is Sofia. Play? No
+
+Game over.
+Game Stats:
+Questions played: 3; Correct answers: 2; Score: 66.67%
+
